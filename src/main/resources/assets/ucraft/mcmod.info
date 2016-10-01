@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ucraft",
+  "name": "UCraft",
+  "description": "Some fucking mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["new2001","Dm0n123"],
+  "credits": "newo2001 and Dm0n123 for making this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
